@@ -17,6 +17,10 @@ body {
   white-space: nowrap;
 }
 
+.js-calculationDisplay::-webkit-scrollbar {
+  display: none;
+}
+
 button {
   height: 60px;
   width: 60px;
